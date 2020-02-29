@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nonogram-news/static/css/main.d1b05096.chunk.css",
+    "main.js": "/nonogram-news/static/js/main.a0ffe828.chunk.js",
+    "main.js.map": "/nonogram-news/static/js/main.a0ffe828.chunk.js.map",
+    "runtime-main.js": "/nonogram-news/static/js/runtime-main.e18efb2b.js",
+    "runtime-main.js.map": "/nonogram-news/static/js/runtime-main.e18efb2b.js.map",
+    "static/js/2.3c51843b.chunk.js": "/nonogram-news/static/js/2.3c51843b.chunk.js",
+    "static/js/2.3c51843b.chunk.js.map": "/nonogram-news/static/js/2.3c51843b.chunk.js.map",
+    "index.html": "/nonogram-news/index.html",
+    "precache-manifest.4f6111839bbe89585fd6feec3a9d11d5.js": "/nonogram-news/precache-manifest.4f6111839bbe89585fd6feec3a9d11d5.js",
+    "service-worker.js": "/nonogram-news/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/nonogram-news/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3c51843b.chunk.js.LICENSE.txt": "/nonogram-news/static/js/2.3c51843b.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nonogram-news/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e18efb2b.js",
+    "static/js/2.3c51843b.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.a0ffe828.chunk.js"
+  ]
+}
